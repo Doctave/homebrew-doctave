@@ -2,7 +2,7 @@ class Doctave < Formula
   desc "Opinionated developer documentation site generator"
   homepage "https://cli.doctave.com"
   url "https://github.com/Doctave/doctave/archive/0.2.0.tar.gz"
-  sha256 "624aed193b6e1d170837a660dcddf3723daa1df26a81df63dfeb3e9d100b40f8"
+  sha256 "f8d11e8d5419feefb69cd912d32ce80a75d3ca3dcb88500a3a9b8b8f9f10b1d5"
   license "MIT"
 
   livecheck do
